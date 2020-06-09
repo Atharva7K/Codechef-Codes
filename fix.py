@@ -1,1 +1,0 @@
-file=open('xyz2.txt')
